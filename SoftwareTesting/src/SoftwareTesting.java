@@ -1,5 +1,5 @@
 
-public class SoftwaereTesting {
+public class SoftwareTesting {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
